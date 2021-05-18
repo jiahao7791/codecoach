@@ -2,7 +2,7 @@ export const TEACHERS = [
     {
       id: 0,
       name: 'Jiahao',
-      image: '/assets/images/web-dev.jpg',
+      image: './assets/images/web-dev.jpg',
       designation: 'Web Dev Teacher',
       abbr: 'CEO',
       featured: false,
@@ -11,7 +11,7 @@ export const TEACHERS = [
     {
       id: 1,
       name: 'Dr. Koki',
-      image: '/assets/images/mobile-dev.jpg',
+      image: './assets/images/mobile-dev.jpg',
       designation: 'Mobile Dev Professor',
       abbr: 'CFO',
         featured: false,
@@ -20,7 +20,7 @@ export const TEACHERS = [
     {
       id: 2,
       name: 'Jang Han Seok',
-      image: '/assets/images/janghanseok.jpg',
+      image: './assets/images/janghanseok.jpg',
       designation: 'Competitive Programming Officer',
       abbr: 'CTO',
       featured: false,
@@ -29,7 +29,7 @@ export const TEACHERS = [
     {
       id: 3,
       name: 'Michael Corleone',
-      image: '/assets/images/michael.jpg',
+      image: './assets/images/michael.jpg',
       designation: 'Machine Learning Expert',
       abbr: 'EC',
       featured: true,
