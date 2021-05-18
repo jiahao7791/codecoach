@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/codecoach/static/css/main.fc08c48f.chunk.css",
-    "main.js": "/codecoach/static/js/main.8c348164.chunk.js",
-    "main.js.map": "/codecoach/static/js/main.8c348164.chunk.js.map",
-    "runtime-main.js": "/codecoach/static/js/runtime-main.434c0402.js",
-    "runtime-main.js.map": "/codecoach/static/js/runtime-main.434c0402.js.map",
-    "static/css/2.6d691934.chunk.css": "/codecoach/static/css/2.6d691934.chunk.css",
-    "static/js/2.a4498627.chunk.js": "/codecoach/static/js/2.a4498627.chunk.js",
-    "static/js/2.a4498627.chunk.js.map": "/codecoach/static/js/2.a4498627.chunk.js.map",
-    "static/js/3.e42d4120.chunk.js": "/codecoach/static/js/3.e42d4120.chunk.js",
-    "static/js/3.e42d4120.chunk.js.map": "/codecoach/static/js/3.e42d4120.chunk.js.map",
-    "index.html": "/codecoach/index.html",
-    "static/css/2.6d691934.chunk.css.map": "/codecoach/static/css/2.6d691934.chunk.css.map",
-    "static/css/main.fc08c48f.chunk.css.map": "/codecoach/static/css/main.fc08c48f.chunk.css.map",
-    "static/js/2.a4498627.chunk.js.LICENSE.txt": "/codecoach/static/js/2.a4498627.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/codecoach/static/media/fontawesome-webfont.f691f37e.woff"
+    "main.css": ".https://jiahao7791.github.io/codecoach/static/css/main.fc08c48f.chunk.css",
+    "main.js": ".https://jiahao7791.github.io/codecoach/static/js/main.daeac1fb.chunk.js",
+    "main.js.map": ".https://jiahao7791.github.io/codecoach/static/js/main.daeac1fb.chunk.js.map",
+    "runtime-main.js": ".https://jiahao7791.github.io/codecoach/static/js/runtime-main.e72291f9.js",
+    "runtime-main.js.map": ".https://jiahao7791.github.io/codecoach/static/js/runtime-main.e72291f9.js.map",
+    "static/css/2.75085515.chunk.css": ".https://jiahao7791.github.io/codecoach/static/css/2.75085515.chunk.css",
+    "static/js/2.a4498627.chunk.js": ".https://jiahao7791.github.io/codecoach/static/js/2.a4498627.chunk.js",
+    "static/js/2.a4498627.chunk.js.map": ".https://jiahao7791.github.io/codecoach/static/js/2.a4498627.chunk.js.map",
+    "static/js/3.e42d4120.chunk.js": ".https://jiahao7791.github.io/codecoach/static/js/3.e42d4120.chunk.js",
+    "static/js/3.e42d4120.chunk.js.map": ".https://jiahao7791.github.io/codecoach/static/js/3.e42d4120.chunk.js.map",
+    "index.html": ".https://jiahao7791.github.io/codecoach/index.html",
+    "static/css/2.75085515.chunk.css.map": ".https://jiahao7791.github.io/codecoach/static/css/2.75085515.chunk.css.map",
+    "static/css/main.fc08c48f.chunk.css.map": ".https://jiahao7791.github.io/codecoach/static/css/main.fc08c48f.chunk.css.map",
+    "static/js/2.a4498627.chunk.js.LICENSE.txt": ".https://jiahao7791.github.io/codecoach/static/js/2.a4498627.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": ".https://jiahao7791.github.io/codecoach/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.434c0402.js",
-    "static/css/2.6d691934.chunk.css",
+    "static/js/runtime-main.e72291f9.js",
+    "static/css/2.75085515.chunk.css",
     "static/js/2.a4498627.chunk.js",
     "static/css/main.fc08c48f.chunk.css",
-    "static/js/main.8c348164.chunk.js"
+    "static/js/main.daeac1fb.chunk.js"
   ]
 }
