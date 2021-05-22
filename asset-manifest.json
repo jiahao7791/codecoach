@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/codecoach/static/css/main.fb160ca0.chunk.css",
-    "main.js": "/codecoach/static/js/main.84f7f904.chunk.js",
-    "main.js.map": "/codecoach/static/js/main.84f7f904.chunk.js.map",
+    "main.css": "/codecoach/static/css/main.19a31e80.chunk.css",
+    "main.js": "/codecoach/static/js/main.38ea6305.chunk.js",
+    "main.js.map": "/codecoach/static/js/main.38ea6305.chunk.js.map",
     "runtime-main.js": "/codecoach/static/js/runtime-main.434c0402.js",
     "runtime-main.js.map": "/codecoach/static/js/runtime-main.434c0402.js.map",
     "static/css/2.6d691934.chunk.css": "/codecoach/static/css/2.6d691934.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.e42d4120.chunk.js.map": "/codecoach/static/js/3.e42d4120.chunk.js.map",
     "index.html": "/codecoach/index.html",
     "static/css/2.6d691934.chunk.css.map": "/codecoach/static/css/2.6d691934.chunk.css.map",
-    "static/css/main.fb160ca0.chunk.css.map": "/codecoach/static/css/main.fb160ca0.chunk.css.map",
+    "static/css/main.19a31e80.chunk.css.map": "/codecoach/static/css/main.19a31e80.chunk.css.map",
     "static/js/2.00006d73.chunk.js.LICENSE.txt": "/codecoach/static/js/2.00006d73.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/codecoach/static/media/fontawesome-webfont.f691f37e.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.434c0402.js",
     "static/css/2.6d691934.chunk.css",
     "static/js/2.00006d73.chunk.js",
-    "static/css/main.fb160ca0.chunk.css",
-    "static/js/main.84f7f904.chunk.js"
+    "static/css/main.19a31e80.chunk.css",
+    "static/js/main.38ea6305.chunk.js"
   ]
 }
