@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/codecoach/static/css/main.19a31e80.chunk.css",
-    "main.js": "/codecoach/static/js/main.754dd59f.chunk.js",
-    "main.js.map": "/codecoach/static/js/main.754dd59f.chunk.js.map",
-    "runtime-main.js": "/codecoach/static/js/runtime-main.434c0402.js",
-    "runtime-main.js.map": "/codecoach/static/js/runtime-main.434c0402.js.map",
+    "main.css": "/codecoach/static/css/main.966447f8.chunk.css",
+    "main.js": "/codecoach/static/js/main.2c3eb481.chunk.js",
+    "main.js.map": "/codecoach/static/js/main.2c3eb481.chunk.js.map",
+    "runtime-main.js": "/codecoach/static/js/runtime-main.51db2599.js",
+    "runtime-main.js.map": "/codecoach/static/js/runtime-main.51db2599.js.map",
     "static/css/2.6d691934.chunk.css": "/codecoach/static/css/2.6d691934.chunk.css",
-    "static/js/2.00006d73.chunk.js": "/codecoach/static/js/2.00006d73.chunk.js",
-    "static/js/2.00006d73.chunk.js.map": "/codecoach/static/js/2.00006d73.chunk.js.map",
-    "static/js/3.e42d4120.chunk.js": "/codecoach/static/js/3.e42d4120.chunk.js",
-    "static/js/3.e42d4120.chunk.js.map": "/codecoach/static/js/3.e42d4120.chunk.js.map",
+    "static/js/2.55a14343.chunk.js": "/codecoach/static/js/2.55a14343.chunk.js",
+    "static/js/2.55a14343.chunk.js.map": "/codecoach/static/js/2.55a14343.chunk.js.map",
+    "static/js/3.1d3bb475.chunk.js": "/codecoach/static/js/3.1d3bb475.chunk.js",
+    "static/js/3.1d3bb475.chunk.js.map": "/codecoach/static/js/3.1d3bb475.chunk.js.map",
     "index.html": "/codecoach/index.html",
     "static/css/2.6d691934.chunk.css.map": "/codecoach/static/css/2.6d691934.chunk.css.map",
-    "static/css/main.19a31e80.chunk.css.map": "/codecoach/static/css/main.19a31e80.chunk.css.map",
-    "static/js/2.00006d73.chunk.js.LICENSE.txt": "/codecoach/static/js/2.00006d73.chunk.js.LICENSE.txt",
+    "static/css/main.966447f8.chunk.css.map": "/codecoach/static/css/main.966447f8.chunk.css.map",
+    "static/js/2.55a14343.chunk.js.LICENSE.txt": "/codecoach/static/js/2.55a14343.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/codecoach/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.434c0402.js",
+    "static/js/runtime-main.51db2599.js",
     "static/css/2.6d691934.chunk.css",
-    "static/js/2.00006d73.chunk.js",
-    "static/css/main.19a31e80.chunk.css",
-    "static/js/main.754dd59f.chunk.js"
+    "static/js/2.55a14343.chunk.js",
+    "static/css/main.966447f8.chunk.css",
+    "static/js/main.2c3eb481.chunk.js"
   ]
 }
